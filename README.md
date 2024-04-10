@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mofe
+![Static Badge](https://img.shields.io/badge/Mofe_Obasola-blue)
+
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: discord[ace.code]
+- 📫 How to reach me: discord - ace.code
 - 😄 Pronouns: him
 
 <!---
